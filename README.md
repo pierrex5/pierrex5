@@ -1,4 +1,4 @@
- #🏀 Bem-vindo ao meu perfil mundo!!
+ # 🏀 Bem-vindo ao meu perfil mundo!!
 
 
 Olá! Eu sou o Kauã Pierre e, além de um novato no mundo da progamação, sou um grande fã de basquete. 🧑‍💻 + 🏀 = ❤️
