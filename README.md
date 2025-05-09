@@ -11,8 +11,11 @@ Eae,Eu sou o Kauã Pierre e além de um novato no mundo da progamação Phyton, 
 - 🛡️ Segurança tipo defesa do Victor Wembanyama
 ---
 E eu amo minha namorada❤️❤.
+
 Time Favorito= Miami Heat🔥🏀
+
 Estilo musical favorito= Rap.
+
 Idade= 17.
 
 
