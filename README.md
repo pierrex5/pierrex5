@@ -12,7 +12,7 @@ Eae,Eu sou o Kauã Pierre e além de um novato no mundo da progamação Phyton, 
 ---
 E eu amo minha namorada❤️❤.
 
-Time Favorito= Miami Heat🔥🏀
+Time de basquete favorito= Miami Heat🔥🏀
 
 Estilo musical favorito= Rap.
 
