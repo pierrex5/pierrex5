@@ -16,6 +16,6 @@ Idade= 17.
 > "A mágica da vida é encontrar o que você ama. Quando você encontra aquilo que ama, sua vida faz sentido." - Kobe Bryant
 > “Você perde 100% dos arremessos que não tenta.” – Michael Jordan
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)](https://github.com/seu-usuario)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrex5&layout=compact)](https://github.com/pierrex5)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)](https://github.com/seu-usuario)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierrex5&show_icons=true&theme=tokyonight)](https://github.com/pierrex5)
