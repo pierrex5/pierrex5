@@ -1,16 +1,21 @@
-## Hi there 👋
+ #🏀 Bem-vindo ao meu perfil mundo!!
 
-<!--
-**pierrex5/pierrex5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Olá! Eu sou o Kauã Pierre e, além de um novato no mundo da progamação, sou um grande fã de basquete. 🧑‍💻 + 🏀 = ❤️
+## Minhas jogadas favoritas no código:
+- 🌀 Códigos limpos dignos de um passe de Nikola Jokic
+- 🔥 Performance como os arremessos do Curry
+- 🛡️ Segurança tipo defesa do Victor Wembanyama
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Time Favorito= Miami Heat🔥🏀
+Estilo musical favorito= Rap.
+Idade= 17.
+
+
+> "A mágica da vida é encontrar o que você ama. Quando você encontra aquilo que ama, sua vida faz sentido." - Kobe Bryant
+> “Você perde 100% dos arremessos que não tenta.” – Michael Jordan
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)](https://github.com/seu-usuario)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)](https://github.com/seu-usuario)
