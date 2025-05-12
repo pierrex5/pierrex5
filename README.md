@@ -1,6 +1,7 @@
  # **🏀 Bem-vindo ao meu perfil mundo!!**
 ![anthony-edwards-icegif-8](https://github.com/user-attachments/assets/488f1b8e-88e7-4eca-9d2f-8356e4fd45fc)
 
+![77ca470217c89f570142af239f891f1d](https://github.com/user-attachments/assets/ab631180-debd-41e3-ac0d-3f975c65687f)
 
 ****Eae,Eu sou o Kauã Pierre e além de um novato no mundo da progamação Phyton, sou um grande fã de basquete.**** 🧑‍💻 + 🏀 = ❤️
 ## Minhas jogadas favoritas no código:
