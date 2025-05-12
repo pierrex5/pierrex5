@@ -1,12 +1,5 @@
  # **🏀 Bem-vindo ao meu perfil mundo!!**
  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pierrex5/pierrex5/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pierrex5/pierrex5/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pierrex5/pierrex5/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 ![77ca470217c89f570142af239f891f1d](https://github.com/user-attachments/assets/ab631180-debd-41e3-ac0d-3f975c65687f)
 
@@ -33,3 +26,7 @@ Idade= 17.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrex5&layout=compact)](https://github.com/pierrex5)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierrex5&show_icons=true&theme=tokyonight)](https://github.com/pierrex5)
+
+<img src="https://raw.githubusercontent.com/pierrex5/pierrex5/output/snake.svg" alt="Snake animation" />
+
+###
