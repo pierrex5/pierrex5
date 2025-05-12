@@ -27,6 +27,6 @@ Idade= 17.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierrex5&show_icons=true&theme=tokyonight)](https://github.com/pierrex5)
 
+
 <img src="https://raw.githubusercontent.com/pierrex5/pierrex5/output/snake.svg" alt="Snake animation" />
 
-###
