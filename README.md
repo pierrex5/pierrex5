@@ -18,6 +18,8 @@ Idade= 17.
 
 
 > "A mágica da vida é encontrar o que você ama. Quando você encontra aquilo que ama, sua vida faz sentido." - Kobe Bryant
+>
+> 
 > “Você perde 100% dos arremessos que não tenta.” – Michael Jordan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrex5&layout=compact)](https://github.com/pierrex5)
