@@ -1,5 +1,6 @@
  # **🏀 Bem-vindo ao meu perfil mundo!!**
  
+![200w](https://github.com/user-attachments/assets/79966fe0-a790-43e6-88f4-2ffd365891e0)
 
 ![77ca470217c89f570142af239f891f1d](https://github.com/user-attachments/assets/ab631180-debd-41e3-ac0d-3f975c65687f)
 
