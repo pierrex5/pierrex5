@@ -8,7 +8,7 @@ Eae,Eu sou o Kauã Pierre e além de um novato no mundo da progamação Phyton, 
 - 🔥 Performance como os arremessos do Curry
 - 🛡️ Segurança tipo defesa do Victor Wembanyama
 ---
-E eu amo minha namorada❤️❤.
+***E eu amo minha namorada❤️❤.***
 
 Time de basquete favorito= Miami Heat🔥🏀
 
