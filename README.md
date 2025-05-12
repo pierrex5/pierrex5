@@ -1,5 +1,4 @@
- # 🏀 Bem-vindo ao meu perfil mundo!!
-<span style="color:orange">
+ # 🏀 Bem-vindo ao meu perfil mundo!!<span style="color:blue">
 
 ![anthony-edwards-icegif-8](https://github.com/user-attachments/assets/488f1b8e-88e7-4eca-9d2f-8356e4fd45fc)
 
