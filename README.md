@@ -1,5 +1,12 @@
  # **🏀 Bem-vindo ao meu perfil mundo!!**
-![anthony-edwards-icegif-8](https://github.com/user-attachments/assets/488f1b8e-88e7-4eca-9d2f-8356e4fd45fc)
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pierrex5/pierrex5/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pierrex5/pierrex5/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pierrex5/pierrex5/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ![77ca470217c89f570142af239f891f1d](https://github.com/user-attachments/assets/ab631180-debd-41e3-ac0d-3f975c65687f)
 
